@@ -1,0 +1,16 @@
+id,name,email,age,city,salary
+1,  Alice Johnson ,alice.johnson@example.com,29,New York,52000
+2,bob smith,BOB.SMITH@EXAMPLE.COM ,34,  chicago,61000
+3,Carla Gomez,carla.gomez@example.com,,Austin,58000
+4,David Lee,david.lee@example.com,41,Seattle,N/A
+5,  Eva Brown,eva.brown@example.com,27,new york ,49000
+1,  Alice Johnson ,alice.johnson@example.com,29,New York,52000
+6,Frank Wright,,38,Boston,72000
+7,grace hopper,grace.hopper@example.com,45,Chicago,null
+8,Henry Adams,henry.adams@example.com,-5,Austin,55000
+9,Ivy Chen,ivy.chen@example.com,31,SEATTLE,64000
+10,   ,jack.ng@example.com,36,Boston,59000
+11,Karen Diaz,karen.diaz@example.com,250,Denver,67000
+12,Liam O'Brien,liam.obrien@example.com,33,Denver,  61000 
+2,Bob Smith,bob.smith@example.com,34,Chicago,61000
+13,Mia Torres,mia.torres@example.com,28,boston,"$58,000"
