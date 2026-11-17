@@ -38,5 +38,8 @@
 ## Tomorrow's first task
 - Should Complete the API request Task 1st thing in the Morning
 
+## extra days for this day-2
+- I learned to use the API and its basics, calling jsonplaceholder API to practice
+- still need to know more about the error handlings
 ---
 ---
