@@ -1,6 +1,6 @@
 # Day- 01: Python data structures and Git setup
 ---
-**Date:** 2026-10-05
+**Date:** 05-10-2026
 **Hours studied:** 1.5hr
 **Energy (1-5):** 3
 

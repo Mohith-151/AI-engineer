@@ -1,16 +1,13 @@
 # Daily Log Template
-
-Copy this into `daily-logs/day-XX.md` every day. Takes 10-15 minutes. Write in **your own words**, not copied from AI or tutorials.
-
 ---
 
 # Day XX: <topic of the day>
 
-**Date:** YYYY-MM-DD
-**Hours studied:** X
-**Energy (1-5):** X
+**Date:** DD-MM-YYYY
 
-## What I learned (3-5 bullets, own words)
+--- 
+
+## What I learned (3-5 bullets)
 -
 -
 -

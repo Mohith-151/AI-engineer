@@ -1,6 +1,6 @@
 # Day 2: OOPS, HTTP(GET,status code and JSON) 
 
-**Date:** 2005-10-06
+**Date:** 06-10-2026
 **Hours studied:** 3
 **Energy (1-5):** 2
 
